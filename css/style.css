@@ -19,3 +19,40 @@ header img{
     margin: 0 190px;
 }
 
+.container{
+    padding: 30px 20px;
+    
+    margin:  0 200px;
+}
+
+.title{
+    font-size: 50px;
+}
+
+h3{
+    color: #B2B2B2;
+    font-size: 20px;
+}
+
+h4{
+    color: #B2B2B2;
+    font-size: 15px;
+}
+
+#author{
+    color: #73C9EF;
+    font-size: 20px;
+}
+
+.container-foto{
+    margin: 20px 0;
+}
+
+
+#tim-pic1{
+    width: 700px;
+}
+
+#tim-pic2{
+    width: 595px;
+}
